@@ -145,7 +145,7 @@ skills:
       - name: API
         level: 80%
 
-      - name: Scocket
+      - name: Socket
         level: 70%
 
       - name: Google Maps
