@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Asad F. Nawajha
-    tagline: Flutter Developer
+    tagline: Android Developer
     avatar: profile Pic.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -90,9 +90,8 @@ education:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      There are some applications built with kotlin
+
     assignments:
       - title: Babble chat
         link: "#"
@@ -104,11 +103,15 @@ projects:
 
       - title: Compass
         link: "#"
-        tagline: "Android application views the copmass depends on phone sensors"
+        tagline: "Android application views the compass depends on phone sensors"
 
       - title: SuperStore
         link: "#"
-        tagline: "An e-commerce app with Alamofire API for iOS."
+        tagline: "An e-commerce app with API."
+
+      - title: SmartStore
+        link: "#"
+        tagline: "An e-commerce app with Firebase database and Firebase notification ."
 
 # publications:
 #     title: Publications
@@ -136,31 +139,25 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Android Kotlin
-        level: 77%
+      - name: Firebase services
+        level: 90%
 
-      - name: iOS
-        level: 55%
+      - name: API
+        level: 80%
 
-      - name: Flutter
+      - name: Scocket
         level: 70%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Google Maps
+        level: 70%
         
-      - name: Java
-        level: 94%
+      - name: Firebas notification
+        level: 77%
 
-      - name: Php
+      - name: Coroutines
         level: 62%
 
-      - name: Sketch & Photoshop
-        level: 45%
-        
       - name: Github
-        level: 90%
-        
-      - name: Socket programming
-        level: 42% 
+        level: 92%
 
 footer: >
