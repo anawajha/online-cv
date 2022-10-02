@@ -30,10 +30,10 @@ sidebar:
 
     languages:
       - idiom: Arabic
-        level: Professional
+        level: Native
         
       - idiom: English
-        level: Native
+        level: Mid
 
 #       - idiom: German
 #         level: Beginner
@@ -142,16 +142,16 @@ skills:
       - name: Firebase services
         level: 90%
 
-      - name: API
+      - name: API & Networking
         level: 80%
 
       - name: Socket
         level: 70%
 
       - name: Google Maps
-        level: 70%
+        level: 88%
         
-      - name: Firebas notification
+      - name: Firebase notifications
         level: 77%
 
       - name: Coroutines
